@@ -1,0 +1,10 @@
+Hindi 'kal' Ambiguity Resolver – Sample Output
+
+Sentence: kal mera presentation hey
+Prediction: Tomorrow (Future)
+
+Sentence: kal barish hua
+Prediction: Yesterday (Past)
+
+Sentence: kal kya hey
+Prediction: Tomorrow (Future)
